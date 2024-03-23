@@ -1,0 +1,12 @@
+/Users/ritz/Documents/springprojects/hib-junit/src/main/java/com/hibjunit/entities/PatientDetails.java
+/Users/ritz/Documents/springprojects/hib-junit/src/main/java/com/hibjunit/entities/PatientContacts.java
+/Users/ritz/Documents/springprojects/hib-junit/src/main/java/com/hibjunit/DAOs/PatientContactsDao.java
+/Users/ritz/Documents/springprojects/hib-junit/src/main/java/com/hibjunit/App.java
+/Users/ritz/Documents/springprojects/hib-junit/src/main/java/com/hibjunit/services/PatientDetailsService.java
+/Users/ritz/Documents/springprojects/hib-junit/src/main/java/com/hibjunit/services/PatientContactsService.java
+/Users/ritz/Documents/springprojects/hib-junit/src/main/java/com/hibjunit/DAOs/PatientDetailsDao.java
+/Users/ritz/Documents/springprojects/hib-junit/src/main/java/com/hibjunit/utilities/AppUtils.java
+/Users/ritz/Documents/springprojects/hib-junit/src/main/java/com/hibjunit/entities/PatientVisitHistory.java
+/Users/ritz/Documents/springprojects/hib-junit/src/main/java/com/hibjunit/AppConfig.java
+/Users/ritz/Documents/springprojects/hib-junit/src/main/java/com/hibjunit/DAOs/PatientVisitHistoryDao.java
+/Users/ritz/Documents/springprojects/hib-junit/src/main/java/com/hibjunit/services/PatientVisitHistoryService.java
