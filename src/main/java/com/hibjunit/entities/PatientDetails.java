@@ -16,7 +16,7 @@ public class PatientDetails {
     private Boolean deleteflag;
     @OneToOne(mappedBy = "patient", cascade = CascadeType.ALL)
     private PatientContacts contacts;
-    @OneToMany(mappedBy = "patient", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
+    @OneToMany(mappedBy = "patient", cascade = CascadeType.ALL, fetch = FetchType.EAGER)
     private List<PatientVisitHistory> visits;
     public int getId() {
         return id;
